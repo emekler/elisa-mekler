@@ -9,5 +9,3 @@ Papers soon
 ### More Information
 
 CHI and stuff
-
-Coucoou
